@@ -1,0 +1,18 @@
+#Este programa foi feito para comparar preços de itens em diferentes cotações (euro,dólar & ouro) 
+#e depois converte-los para reais.
+
+#Esses itens e seus preços estavam localizados em um arquivo excel, e no fim seriam editados e acabariam
+#em uma versão mais atualizada dessa tabela, que seria feita e editada automaticamente.
+
+#Para fazer as pesquisas sobre as cotações foram utilizados o selenium e o webdriver do chrome (ChromeDriver).
+
+#Para modificar e criar as tabelas foi utilizado o pandas.
+
+#Ferramentas utilizadas:
+#            Selenium
+#            Pandas
+#            ChromeDriver
+
+
+
+#Ele foi produzido e testado no ambiente Jupyter, um opensource para python.
